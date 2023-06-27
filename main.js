@@ -1,4 +1,4 @@
-window.addEventListener('scroll', onScroll)
+window.addEventListener('scroll', onScroll);
 
 onScroll()
 function onScroll() {
